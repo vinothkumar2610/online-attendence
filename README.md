@@ -1,2 +1,2 @@
-# online-attendence
-online attendence for student
+# Attendance management system
+Attendence for student
